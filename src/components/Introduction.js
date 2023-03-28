@@ -22,6 +22,7 @@ export default function Introduction() {
                                         <img src="assets/images/AWS-SolArchitect-Associate-2020.png" style={{ maxWidth: "30%", height: "auto" }} />
 
                                         <img src="assets/images/AWS-Academy-Accredited-Educator-Badge.png" style={{ maxWidth: "30%", height: "auto" }} />
+                                        <img src="assets/images/aws-cb.png" style={{ maxWidth: "30%", height: "auto" }} />
 
                                     </span>
                                 </div>
